@@ -16,6 +16,8 @@ https://www.kaspersky.com/downloads/antivirus
 
 https://www.python.org/
 
+https://sourceforge.net/projects/mingw/
+
 https://www.microsoft.com/en-in/software-download/windows10
 
 https://www.microsoft.com/software-download/windows11
