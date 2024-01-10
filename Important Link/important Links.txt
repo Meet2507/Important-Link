@@ -2,6 +2,8 @@ https://code.visualstudio.com/download
 
 https://www.sublimetext.com/
 
+https://kraken.findmysoft.com/download/ (winrar Password Crecker)
+
 https://nodejs.org/en/download
 
 https://www.apachefriends.org/
