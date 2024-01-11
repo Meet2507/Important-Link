@@ -2,7 +2,7 @@ https://code.visualstudio.com/download
 
 https://www.sublimetext.com/
 
-https://kraken.findmysoft.com/download/ (winrar Password Crecker)
+https://sourceforge.net/projects/mingw-w64/
 
 https://nodejs.org/en/download
 
