@@ -2,7 +2,7 @@ https://code.visualstudio.com/download
 
 https://www.sublimetext.com/
 
-https://sourceforge.net/projects/mingw-w64/
+https://sourceforge.net/projects/mingw/
 
 https://nodejs.org/en/download
 
