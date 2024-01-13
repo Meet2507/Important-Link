@@ -14,9 +14,11 @@ https://www.irctc.co.in/nget/train-search
 
 https://www.oracle.com/java/technologies/downloads/#java8
 
-https://www.kaspersky.com/downloads/antivirus
+https://www.microsoft.com/software-download/windows11
 
 https://www.python.org/
+
+https://www.microsoft.com/en-in/software-download/windows10
 
 https://get.adobe.com/reader/
 
