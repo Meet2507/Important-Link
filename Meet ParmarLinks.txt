@@ -2,7 +2,7 @@ https://code.visualstudio.com/download
 
 https://www.sublimetext.com/
 
-https://msguides.com/how-to-activate-microsoft-office-2016
+https://msguides.com/office-2016#2_Using_prewritten_batch_script
 
 https://rufus.ie/en/
 
