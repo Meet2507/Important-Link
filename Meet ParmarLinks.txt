@@ -8,6 +8,8 @@ https://www.microsoft.com/en-in/sql-server/sql-server-downloads
 
 https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16
 
+https://dev.mysql.com/downloads/installer/
+
 https://kickass.sx/user/krishh1337/
 
 https://traffic.delhipolice.gov.in/notice/pay-notice
