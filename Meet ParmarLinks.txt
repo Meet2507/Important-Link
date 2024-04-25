@@ -2,6 +2,8 @@ https://code.visualstudio.com/download
 
 https://www.gyftr.com/sonyliv
 
+https://accounts.google.com/o/oauth2/device/usercode?ddm=0&flowName=DeviceOAuth
+
 https://rxresu.me/auth/login
 
 https://www.1tamilmv.yt/index.php
