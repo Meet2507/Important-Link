@@ -8,6 +8,10 @@ https://www.utorrent.com/downloads/complete/track/stable/os/win/
 
 https://chromewebstore.google.com/detail/touch-vpn-secure-and-unli/bihmplhobchoageeokmgbdihknkjbknd
 
+https://chromewebstore.google.com/detail/urban-vpn-proxy/eppiocemhmnlbhjplcgkofciiegomcon?hl=en
+
+https://chromewebstore.google.com/detail/urban-vpn-proxy/eppiocemhmnlbhjplcgkofciiegomcon?hl=en
+
 cleanmgr
 
 %temp%
