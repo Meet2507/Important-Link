@@ -2,7 +2,10 @@ https://calculat.io/en/date/count-day/6--months--from--august--6
 
 https://massgrave.dev/
 
-irm https://massgrave.dev/get |iex
+irm https://massgrave.dev/get | iex
+
+irm https://massgrave.dev/get​ | iex
+
 
 https://developer.android.com/games/playgames/emulator
 
