@@ -20,6 +20,10 @@ irm https://massgrave.dev/get​ | iex
 
 irm https://massgrave.dev/get​ | iex
 
+
+irm https://massgrave.dev/get | iex
+
+
 https://www.microsoft.com/en-us/software-download/windows11
 
 https://code.jquery.com/jquery-3.7.1.js
